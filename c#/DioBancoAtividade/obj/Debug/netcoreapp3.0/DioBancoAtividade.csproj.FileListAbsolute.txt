@@ -1,0 +1,11 @@
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\obj\Debug\netcoreapp3.0\DioBancoAtividade.csprojAssemblyReference.cache
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\obj\Debug\netcoreapp3.0\DioBancoAtividade.AssemblyInfoInputs.cache
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\obj\Debug\netcoreapp3.0\DioBancoAtividade.AssemblyInfo.cs
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\bin\Debug\netcoreapp3.0\DioBancoAtividade.exe
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\bin\Debug\netcoreapp3.0\DioBancoAtividade.deps.json
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\bin\Debug\netcoreapp3.0\DioBancoAtividade.runtimeconfig.json
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\bin\Debug\netcoreapp3.0\DioBancoAtividade.runtimeconfig.dev.json
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\bin\Debug\netcoreapp3.0\DioBancoAtividade.dll
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\bin\Debug\netcoreapp3.0\DioBancoAtividade.pdb
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\obj\Debug\netcoreapp3.0\DioBancoAtividade.dll
+C:\aulas\c#\dio-dotnet-Banco-atividade\DioBancoAtividade\obj\Debug\netcoreapp3.0\DioBancoAtividade.pdb
